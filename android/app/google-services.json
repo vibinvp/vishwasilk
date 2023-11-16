@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388183172693",
+    "project_id": "vishwa-silk",
+    "storage_bucket": "vishwa-silk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388183172693:android:c1f09e098b388c1ebbd6dc",
+        "android_client_info": {
+          "package_name": "com.vishwassilkvendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-tgzbtDGMNueFsQZw9aBF8tBfJjUmMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
